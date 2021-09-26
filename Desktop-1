@@ -1,0 +1,264 @@
+-
+[
+   
+-
+{
+        "name": "Desktop - 1",
+        "type": "div",
+        "content": 
+-
+[
+           
+-
+{
+                "name": "Logo",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v2_4"
+                },
+                "style": 
+-
+{
+                    "width": "400px",
+                    "height": "316px",
+                    "background": "url(\"../images/v2_4.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "354px",
+                    "left": "525px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "LinkedIn",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v3_86"
+                },
+                "style": 
+-
+{
+                    "width": "32px",
+                    "height": "32px",
+                    "background": "url(\"../images/v3_86.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "594px",
+                    "left": "228px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "Instagram logo",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v3_87"
+                },
+                "style": 
+-
+{
+                    "width": "32px",
+                    "height": "32px",
+                    "background": "url(\"../images/v3_87.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "594px",
+                    "left": "265px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "WhatsApp",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "v3_88"
+                },
+                "style": 
+-
+{
+                    "width": "32px",
+                    "height": "32px",
+                    "background": "url(\"../images/v3_88.png\")",
+                    "background-repeat": "no-repeat",
+                    "background-position": "center center",
+                    "background-size": "cover",
+                    "opacity": 1,
+                    "position": "absolute",
+                    "top": "594px",
+                    "left": "302px",
+                    "overflow": "hidden"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            },
+           
+-
+{
+                "name": "name",
+                "type": "div",
+                "content": [],
+                "attributes": 
+-
+{
+                    "class": "name"
+                },
+                "style": 
+-
+{
+                    "color": "#fff"
+                }
+            }
+        ],
+        "attributes": 
+-
+{
+            "class": "v2_2"
+        },
+        "style": 
+-
+{
+            "width": "100%",
+            "height": "1024px",
+            "background": "url(\"../images/v2_2.png\")",
+            "background-repeat": "no-repeat",
+            "background-position": "center center",
+            "background-size": "cover",
+            "opacity": 1,
+            "position": "relative",
+            "top": "0px",
+            "left": "0px",
+            "border-top-left-radius": "50px",
+            "border-top-right-radius": "50px",
+            "border-bottom-left-radius": "50px",
+            "border-bottom-right-radius": "50px",
+            "overflow": "hidden"
+        }
+    }
+]
